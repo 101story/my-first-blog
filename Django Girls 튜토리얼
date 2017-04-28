@@ -4,5 +4,6 @@ https://tutorial.djangogirls.org/
 git clone https://github.com/101story/my-first-blog.git
 
 ## 서버 실행
-C:\Users\Name\djangogirls> myvenv\Scripts\activate
-(myvenv) ~/djangogirls$ python manage.py runserver
+C:\Users\student>cd Documents\jhfolder\djangogirls
+C:\Users\student\Documents\jhfolder\djangogirls>myvenv\Scripts\activate
+(myvenv) C:\Users\student\Documents\jhfolder\djangogirls>python manage.py runserver
