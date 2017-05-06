@@ -7,3 +7,14 @@ git clone https://github.com/101story/my-first-blog.git
 C:\Users\student>cd Documents\jhfolder\djangogirls
 C:\Users\student\Documents\jhfolder\djangogirls>myvenv\Scripts\activate
 (myvenv) C:\Users\student\Documents\jhfolder\djangogirls>python manage.py runserver
+
+
+제일 먼저, Github에 여러분의 코드를 git의 push를 사용해서 넣으세요.
+$ git status
+[...]
+$ git add --all .
+$ git status
+[...]
+$ git commit -m "Modified templates to display posts from database."
+[...]
+$ git push
