@@ -8,6 +8,9 @@ C:\Users\student>cd Documents\jhfolder\djangogirls
 C:\Users\student\Documents\jhfolder\djangogirls>myvenv\Scripts\activate
 (myvenv) C:\Users\student\Documents\jhfolder\djangogirls>python manage.py runserver
 
+현재 디렉토리에 장고를 설치
+(myvenv) C:\Users\Name\djangogirls> django-admin.py startproject mysite .
+
 
 제일 먼저, Github에 여러분의 코드를 git의 push를 사용해서 넣으세요.
 $ git status
